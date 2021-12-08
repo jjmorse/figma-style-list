@@ -1,0 +1,10 @@
+{
+  "name": "Style List",
+  "id": "1041790463453235925",
+  "api": "1.0.0",
+  "ui": "ui.html",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ]
+}
